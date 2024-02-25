@@ -8,6 +8,7 @@ const gcd = (a, b) => {
   }
   return gcd(b, a % b);
 };
+
 const generateRound = () => {
   const firstNumber = getRandomNumber();
   const secondNumber = getRandomNumber();
