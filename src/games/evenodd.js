@@ -1,8 +1,9 @@
 import gameLogics from '../index.js';
+import getRandomNumber from '../utilities/random-number.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 const generateRound = () => {
-  const gameQuestion = Math.floor(Math.random() * (99 - 1) + 1);
+  const gameQuestion = getRandomNumber();
   let correctAnswer = '';
   if (gameQuestion % 2 === 0) {
     correctAnswer = 'yes';

@@ -1,6 +1,6 @@
 import gameLogics from '../index.js';
+import getRandomNumber from '../utilities/random-number.js';
 
-const getRandomNumber = () => Math.floor(Math.random() * (99 - 1) + 1);
 const description = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
 const randomOperators = () => {
