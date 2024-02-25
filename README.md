@@ -3,3 +3,4 @@
 "!https://api.codeclimate.com/v1/badges/805e2e6b1cfb5f5a06ba/maintainability!":https://codeclimate.com/github/Alec337/frontend-project-44/maintainability
 [![asciicast](https://asciinema.org/a/YXZUlKAarEdfQURHE0lG0MkSx.svg)](https://asciinema.org/a/YXZUlKAarEdfQURHE0lG0MkSx)
 [![asciicast](https://asciinema.org/a/geehYgVjQuyyG1Puggl6mTCcz.svg)](https://asciinema.org/a/geehYgVjQuyyG1Puggl6mTCcz)
+[![asciicast](https://asciinema.org/a/NrNPmF65U1rRaDCsgfZVQzWp8.svg)](https://asciinema.org/a/NrNPmF65U1rRaDCsgfZVQzWp8)
